@@ -132,9 +132,18 @@ My commits include:
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
