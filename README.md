@@ -129,4 +129,12 @@ My commits include:
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0292-nim-game) |
+## Array
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
