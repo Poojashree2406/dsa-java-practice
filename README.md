@@ -98,3 +98,11 @@ My commits include:
 **DSA → Java → LeetCode → Problem Solving → Interview Preparation**
 
 > Consistency is more important than solving everything at once.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0196-delete-duplicate-emails) |
+<!---LeetCode Topics End-->
