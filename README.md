@@ -134,6 +134,7 @@ My commits include:
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ My commits include:
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 | [0856-score-of-parentheses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
@@ -163,8 +165,25 @@ My commits include:
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
