@@ -134,6 +134,7 @@ My commits include:
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 ## Two Pointers
@@ -145,6 +146,7 @@ My commits include:
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0059-spiral-matrix-ii) |
+| [0085-maximal-rectangle](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@ My commits include:
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
 | [0856-score-of-parentheses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
@@ -170,6 +173,7 @@ My commits include:
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
@@ -208,4 +212,8 @@ My commits include:
 | ------- |
 | [0044-wildcard-matching](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
