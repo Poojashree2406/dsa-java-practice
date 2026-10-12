@@ -139,6 +139,7 @@ My commits include:
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
 ## Matrix
 |  |
 | ------- |
@@ -156,6 +157,7 @@ My commits include:
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
 | [0856-score-of-parentheses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -186,4 +188,12 @@ My commits include:
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
