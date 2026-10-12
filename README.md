@@ -108,6 +108,7 @@ My commits include:
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0089-gray-code) |
 | [0292-nim-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
@@ -180,6 +181,7 @@ My commits include:
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
@@ -216,4 +218,8 @@ My commits include:
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0085-maximal-rectangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
