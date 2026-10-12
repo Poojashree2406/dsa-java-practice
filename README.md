@@ -152,6 +152,7 @@ My commits include:
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0044-wildcard-matching) |
 | [0093-restore-ip-addresses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
@@ -168,6 +169,7 @@ My commits include:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
@@ -199,9 +201,11 @@ My commits include:
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
