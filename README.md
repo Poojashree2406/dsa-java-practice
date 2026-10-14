@@ -175,6 +175,7 @@ My commits include:
 | ------- |
 | [0044-wildcard-matching](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
@@ -184,6 +185,7 @@ My commits include:
 | [0077-combinations](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
@@ -223,4 +225,16 @@ My commits include:
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0089-gray-code) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
