@@ -191,6 +191,7 @@ My commits include:
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
 ## Trie
 |  |
 | ------- |
@@ -207,6 +208,7 @@ My commits include:
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -237,4 +239,12 @@ My commits include:
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0095-unique-binary-search-trees-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
