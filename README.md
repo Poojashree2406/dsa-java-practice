@@ -104,6 +104,7 @@ My commits include:
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0196-delete-duplicate-emails) |
