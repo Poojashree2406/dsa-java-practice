@@ -104,6 +104,7 @@ My commits include:
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0196-delete-duplicate-emails) |
 ## Math
 |  |
