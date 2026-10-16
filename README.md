@@ -148,6 +148,7 @@ My commits include:
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
+| [0165-compare-version-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0165-compare-version-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -164,6 +165,7 @@ My commits include:
 | [0093-restore-ip-addresses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+| [0165-compare-version-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0165-compare-version-numbers) |
 | [0856-score-of-parentheses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
