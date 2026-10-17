@@ -143,6 +143,7 @@ My commits include:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +201,7 @@ My commits include:
 | ------- |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
 | ------- |
@@ -276,4 +278,8 @@ My commits include:
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Sorting
+|  |
+| ------- |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 <!---LeetCode Topics End-->
