@@ -144,6 +144,7 @@ My commits include:
 | [0134-gas-station](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
+| [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@ My commits include:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+| [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
 ## Backtracking
 |  |
 | ------- |
