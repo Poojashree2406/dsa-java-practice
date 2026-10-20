@@ -113,6 +113,7 @@ My commits include:
 | ------- |
 | [0089-gray-code](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0089-gray-code) |
 | [0292-nim-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0292-nim-game) |
+| [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -146,6 +147,7 @@ My commits include:
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -288,6 +290,7 @@ My commits include:
 | [0147-insertion-sort-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0147-insertion-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -300,4 +303,8 @@ My commits include:
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
