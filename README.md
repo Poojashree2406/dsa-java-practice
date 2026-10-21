@@ -195,6 +195,7 @@ My commits include:
 | [0097-interleaving-string](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
@@ -257,6 +258,7 @@ My commits include:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
@@ -270,6 +272,7 @@ My commits include:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Design
 |  |
@@ -286,6 +289,7 @@ My commits include:
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
@@ -315,4 +319,8 @@ My commits include:
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
