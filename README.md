@@ -174,6 +174,7 @@ My commits include:
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0165-compare-version-numbers) |
 | [0856-score-of-parentheses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0856-score-of-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
