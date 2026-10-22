@@ -155,6 +155,7 @@ My commits include:
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0165-compare-version-numbers) |
 ## Matrix
@@ -213,6 +214,7 @@ My commits include:
 | ------- |
 | [0133-clone-graph](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
@@ -231,6 +233,7 @@ My commits include:
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0142-linked-list-cycle-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0147-insertion-sort-list) |
@@ -331,4 +334,8 @@ My commits include:
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0133-clone-graph) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
