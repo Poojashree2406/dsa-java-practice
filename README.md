@@ -155,6 +155,7 @@ My commits include:
 | [0130-surrounded-regions](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+| [0174-dungeon-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0189-rotate-array) |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
@@ -177,6 +178,7 @@ My commits include:
 | [0059-spiral-matrix-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0174-dungeon-game) |
 | [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
@@ -215,6 +217,7 @@ My commits include:
 | [0124-binary-tree-maximum-path-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+| [0174-dungeon-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
 ## Backtracking
 |  |
