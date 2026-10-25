@@ -158,6 +158,7 @@ My commits include:
 | [0189-rotate-array](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0189-rotate-array) |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
+| [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
@@ -176,6 +177,7 @@ My commits include:
 | [0059-spiral-matrix-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0130-surrounded-regions) |
+| [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -312,6 +314,7 @@ My commits include:
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0133-clone-graph) |
+| [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -319,6 +322,7 @@ My commits include:
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0130-surrounded-regions](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0133-clone-graph) |
+| [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -358,4 +362,5 @@ My commits include:
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0130-surrounded-regions) |
+| [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
