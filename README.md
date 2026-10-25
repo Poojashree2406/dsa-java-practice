@@ -120,6 +120,7 @@ My commits include:
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0089-gray-code) |
+| [0172-factorial-trailing-zeroes](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0292-nim-game) |
 | [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
