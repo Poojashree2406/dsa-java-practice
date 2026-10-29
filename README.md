@@ -124,6 +124,7 @@ My commits include:
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0292-nim-game) |
@@ -159,6 +160,7 @@ My commits include:
 | [0130-surrounded-regions](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
 | [0174-dungeon-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0189-rotate-array) |
@@ -242,6 +244,7 @@ My commits include:
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
@@ -392,4 +395,16 @@ My commits include:
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
