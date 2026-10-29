@@ -167,6 +167,7 @@ My commits include:
 | [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -200,6 +201,7 @@ My commits include:
 | [0165-compare-version-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0179-largest-number) |
 | [0856-score-of-parentheses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0856-score-of-parentheses) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -282,6 +284,7 @@ My commits include:
 | ------- |
 | [0089-gray-code](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0089-gray-code) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
@@ -292,6 +295,7 @@ My commits include:
 | [0124-binary-tree-maximum-path-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0199-binary-tree-right-side-view) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -319,6 +323,7 @@ My commits include:
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -328,6 +333,7 @@ My commits include:
 | [0133-clone-graph](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0199-binary-tree-right-side-view) |
 | [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -378,4 +384,12 @@ My commits include:
 | ------- |
 | [0130-surrounded-regions](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
