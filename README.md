@@ -128,6 +128,7 @@ My commits include:
 | [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0292-nim-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
@@ -231,6 +232,7 @@ My commits include:
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0174-dungeon-game) |
+| [0264-ugly-number-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
 ## Backtracking
 |  |
@@ -248,6 +250,7 @@ My commits include:
 | [0142-linked-list-cycle-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
+| [0264-ugly-number-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0264-ugly-number-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
@@ -410,4 +413,8 @@ My commits include:
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
