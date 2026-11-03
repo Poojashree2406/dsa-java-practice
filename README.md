@@ -253,6 +253,7 @@ My commits include:
 | [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
 | [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0264-ugly-number-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
@@ -312,6 +313,7 @@ My commits include:
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Binary Tree
 |  |
 | ------- |
@@ -326,6 +328,7 @@ My commits include:
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -375,6 +378,7 @@ My commits include:
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Enumeration
 |  |
 | ------- |
@@ -395,6 +399,7 @@ My commits include:
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0130-surrounded-regions) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
@@ -428,4 +433,8 @@ My commits include:
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
