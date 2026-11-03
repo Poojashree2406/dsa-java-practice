@@ -168,6 +168,7 @@ My commits include:
 | [0179-largest-number](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0189-rotate-array) |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
 | [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -250,6 +251,7 @@ My commits include:
 | [0142-linked-list-cycle-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0149-max-points-on-a-line) |
+| [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0264-ugly-number-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
@@ -358,6 +360,7 @@ My commits include:
 | [0147-insertion-sort-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
@@ -417,4 +420,12 @@ My commits include:
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0264-ugly-number-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
