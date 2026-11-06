@@ -172,6 +172,7 @@ My commits include:
 | [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
 | [1254-number-of-closed-islands](https://github.com/Poojashree2406/dsa-java-practice/tree/master/1254-number-of-closed-islands) |
+| [2747-count-zero-request-servers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -255,6 +256,7 @@ My commits include:
 | [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0264-ugly-number-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [2747-count-zero-request-servers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
@@ -365,12 +367,14 @@ My commits include:
 | [0179-largest-number](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
+| [2747-count-zero-request-servers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
+| [2747-count-zero-request-servers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/2747-count-zero-request-servers) |
 ## Bucket Sort
 |  |
 | ------- |
