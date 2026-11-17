@@ -187,6 +187,7 @@ My commits include:
 | [0143-reorder-list](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0189-rotate-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Poojashree2406/dsa-java-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +211,7 @@ My commits include:
 | [0165-compare-version-numbers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0179-largest-number) |
 | [0856-score-of-parentheses](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0856-score-of-parentheses) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Poojashree2406/dsa-java-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -237,6 +239,7 @@ My commits include:
 | [0174-dungeon-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Poojashree2406/dsa-java-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Backtracking
 |  |
 | ------- |
