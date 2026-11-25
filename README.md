@@ -180,6 +180,7 @@ My commits include:
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -264,6 +265,7 @@ My commits include:
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2747-count-zero-request-servers](https://github.com/Poojashree2406/dsa-java-practice/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3934-smallest-unique-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -323,6 +325,7 @@ My commits include:
 | [0095-unique-binary-search-trees-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -448,4 +451,16 @@ My commits include:
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Poojashree2406/dsa-java-practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
