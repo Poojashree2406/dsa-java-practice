@@ -170,6 +170,7 @@ My commits include:
 | [0174-dungeon-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0198-house-robber) |
 | [0220-contains-duplicate-iii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
@@ -241,6 +242,7 @@ My commits include:
 | [0131-palindrome-partitioning](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/Poojashree2406/dsa-java-practice/tree/master/0312-burst-balloons) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Poojashree2406/dsa-java-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
